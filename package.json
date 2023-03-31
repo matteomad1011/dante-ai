@@ -1,0 +1,15 @@
+{
+  "name": "dante-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quoteImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}
